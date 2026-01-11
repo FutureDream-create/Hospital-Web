@@ -1,0 +1,143 @@
+Hero Section
+
+
+Navigations
+
+Home
+
+About Us
+
+Services
+
+Departments
+
+Doctors
+
+Patients & Visitors
+
+Contact
+
+
+Headline:
+Caring for Life. Healing with Compassion.
+
+Subheading:
+Providing high-quality medical care with advanced technology, experienced professionals, and a commitment to patient safety and comfort.
+
+Primary Button:
+Book an Appointment
+Secondary Button:
+Find a Doctor
+
+About the Hospital
+
+Title:
+About Our Hospital
+
+Text:
+Our hospital is dedicated to delivering comprehensive healthcare services with integrity, compassion, and excellence. We combine modern medical technology with skilled healthcare professionals to ensure accurate diagnosis, effective treatment, and personalized patient care.
+
+Our Services
+
+Title:
+Medical Services
+
+Emergency Care
+24/7 emergency services with rapid response and critical care support.
+
+Outpatient Services
+Consultations, diagnostics, and treatments without hospital admission.
+
+Inpatient Care
+Comfortable rooms and continuous medical supervision for admitted patients.
+
+Diagnostic Services
+Advanced laboratory testing and medical imaging for accurate diagnosis.
+
+Surgical Services
+Safe and modern surgical procedures performed by experienced specialists.
+
+Pharmacy Services
+On-site pharmacy providing prescribed medications and guidance.
+
+Departments
+
+Title:
+Our Medical Departments
+
+Internal Medicine
+
+Pediatrics
+
+General Surgery
+
+Obstetrics & Gynecology
+
+Orthopedics
+
+Cardiology
+
+Radiology
+
+Laboratory Services
+
+Why Choose Our Hospital
+
+Title:
+Why Patients Trust Us
+
+Qualified and experienced medical staff
+
+Modern equipment and facilities
+
+Patient-centered care approach
+
+Strict safety and hygiene standards
+
+Compassionate support for patients and families
+
+Doctors Section
+
+Title:
+Our Medical Team
+
+Text:
+Our team consists of certified doctors, nurses, and healthcare professionals committed to providing ethical, respectful, and high-quality medical care.
+
+Button:
+Meet Our Doctors
+
+Patient Information
+
+Title:
+Patient Resources
+
+Appointment scheduling
+
+Visiting hours
+
+Insurance and billing information
+
+Patient rights and responsibilities
+
+Call to Action
+
+Title:
+Your Health Is Our Priority
+
+Text:
+Schedule an appointment today or contact us for medical assistance. We are here to support you every step of the way.
+
+Button:
+Contact Us
+
+Footer Content
+
+Emergency Contact:
+Emergency: +XXX XXX XXX
+
+Address:
+Hospital Name, City, Country
+
+Footer Line:
+© 2026 Hospital Name. All rights reserved.
